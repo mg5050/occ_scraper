@@ -3,7 +3,7 @@ OCC Scraper:
     occ_scraper.py:
         entry point for occ_scraper & testing suite
 
-Desc:       Scraper for http://www.oldclassiccar.co.uk/ forum threads
+Desc:       Scraper for php BB forum threads
 Depends:    Python3.4, PycURL7, BeautifulSoup4
 Author:     Mike Gonzalez (mgonz50@rutgers.edu)
 """
