@@ -3,7 +3,7 @@ Python scraper for php BB forum threads
 
 OCC Scraper:
 
-    Desc:       Scraper for REDACTED
+    Desc:       Scraper for php BB forum threads
     Depends:    Python3.4, PycURL7, BeautifulSoup4
     Author:     Mike Gonzalez (mgonz50@rutgers.edu)
 
