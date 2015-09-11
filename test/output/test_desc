@@ -1,0 +1,5 @@
+site_chrome.html;first page downloaded via Chrome
+site_curl.html;first page downloaded via Curl CLI tool
+site_pycurl.html;first page downloaded via PycURL
+trow_embd.html;single forum post featuring embedded comment, emoticon
+trow_embd_2.html;single forum post featuring embedded comment, multiple lines, whitespace, line breaks
